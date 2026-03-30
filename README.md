@@ -41,7 +41,7 @@ Prepared a case study on phishing and created a prevention checklist for online 
 ## My Profiles
 
 **GitHub:** [https://github.com/manishburdak45  ](https://github.com/manishburdak45)
-**LinkedIn:**[[ https://www.linkedin.com/in/manish-burdak-718067380?utm_source=share_via&utm_content=profile&utm_medium=member_android  ]](https://www.linkedin.com/in/manish-burdak-718067380/)
+**LinkedIn:**[ https://www.linkedin.com/in/manish-burdak-718067380](https://www.linkedin.com/in/manish-burdak-718067380/)
 **Kaggle:** [https://www.kaggle.com/YOUR-KAGGLE-USERNAME  ](https://www.kaggle.com/manishburdak)
 **CodeChef:** [https://www.codechef.com/users/YOUR-CODECHEF-USERNAME ](https://www.codechef.com/users/manishburdak45) 
 
